@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanminphyo&label=Profile%20views&color=0e75b6&style=flat" alt="hanminphyo" /> </p>
 
-- 🌱 I’m currently learning **bootstrap**
+- 🌱 I’m currently learning **Backend Technology**
 
 - 📫 How to reach me **hanminphyo24@gmail.com**
 
